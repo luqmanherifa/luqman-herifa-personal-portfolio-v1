@@ -1,0 +1,40 @@
+/* About */
+.about {
+  margin-bottom: 131px;
+}
+
+/* Title - About */
+.title-about {
+  color: #006FE6;
+  font-size: 25px;
+  font-weight: 700;
+  width: 570px;
+  margin: 40px 0 30px 0;
+}
+
+.title-about::after {
+  content: "";
+  display: block;
+  position: relative;
+  top: -20px;
+  height: 3px;
+  background-color: #006FE6;
+  margin-left: 140px;
+  border-radius: 10px;
+}
+
+/* Text - About */
+.text-about {
+  width: 350px;
+  line-height: 1.7;
+}
+
+/* Image - About */
+.img-about {
+  width: 200px;
+  height: 200px;
+  border-radius: 4px;
+  margin-left: 20px;
+  padding: 0px;
+  box-shadow: 8px 8px #006FE6;
+}

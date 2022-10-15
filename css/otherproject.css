@@ -1,0 +1,102 @@
+/* Other Project */
+.other-project {
+  margin-bottom: 100px;
+}
+
+/* Object - Other Project */
+.content-other-project {
+  width: 900px;
+}
+
+.other-project-group {
+  padding: 25px;
+  background: #006FE6;
+  width: 270px;
+  height: 300px;
+  margin: 0 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0px 3px 10px grey;
+}
+
+.other-project-group a {
+  background-color: #006FE6;
+}
+
+.other-project-group p {
+  background-color: #006FE6;
+  margin-bottom: 17px;
+}
+
+#otherProjectHidden1, #otherProjectHidden2, #otherProjectHidden3 {
+  display: none;
+}
+
+/* Title - Other Project */
+.title-other-project {
+  font-size: 25px;
+  font-weight: 700;
+  width: 850px;
+  margin: 0 0 30px 0;
+  text-align: center;
+}
+
+/* Text - Other Project */
+.text-other-1 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #F5F5F5;
+}
+
+.text-other-2 {
+  font-size: 14px;
+  color: #F5F5F5;
+}
+
+.text-other-3 {
+  font-size: 13px;
+  color: #F5F5F5;
+}
+
+/* Button - Other Project */
+#btnShow {
+  background-color: white;
+  border-color: #006FE6;
+  color: #006FE6;
+  border-radius: 10px;
+  padding: 10px 25px;
+  font-weight: 600;
+  box-shadow: 0px 5px #006FE6;
+  border: 2px solid #006FE6;
+  font-size: 14px;
+}
+
+#btnShow:hover {
+  background-color: #E6F2FF !important;
+  color: #006FE6 !important;
+  border: 2px solid #006FE6 !important;
+}
+
+#btnShow:active {
+  position: relative;
+  top: 5px;
+  box-shadow: none;
+}
+
+/* Icon - Other Project */
+.icon-other-project {
+  margin-bottom: 17px;
+  margin-right: 163px;
+  background-color: #006FE6;
+  color: #F5F5F5;
+  width: 30px;
+  height: 12px;
+}
+
+.icon-other-arrow {
+  background-color: #006FE6;
+  color: #003670;
+}
+
+.icon-other-arrow:hover {
+  color: #F5F5F5;
+}
