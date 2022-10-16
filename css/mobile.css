@@ -2,7 +2,7 @@
 @media (max-width: 768px) {
 
   /* ---------- Navbar ---------- */
-  .navbar-responsive-order {
+  /* .navbar-responsive-order {
     order: 1;
   }
 
@@ -26,6 +26,10 @@
 
   .icon-toggler:hover {
     color: #006FE6;
+  } */
+
+  .icon-navbrand, .icon-dark {
+    display: none;
   }
 
   /* ---------- Home ---------- */
