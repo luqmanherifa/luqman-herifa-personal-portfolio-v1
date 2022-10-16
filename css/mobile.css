@@ -6,11 +6,11 @@
     order: 1;
   } */
 
-  .navbar-toggler {
+  /* .navbar-toggler {
     width: 25px;
     height: 25px;
     border: none;
-  }
+  } */
 
   .navbar-toggler:focus {
     display: none;
