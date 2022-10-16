@@ -110,18 +110,22 @@
     height: 40px;
   }
   
-  /* #btnExp4, #btnExp5 {
+  #btnExp4, #btnExp5 {
     display: none;
-  } */
+  }
 
   .text-exp-group {
     width: 93vw;
     height: 300px;
   }
 
+  .text-exp-1 {
+    line-height: 1.5;
+  }
+
   .text-exp-2 {
     font-size: 16px;
-    margin: -15px 0 10px;
+    margin: -5px 0 10px;
   }
 
   .text-exp-3 {
@@ -151,6 +155,10 @@
 
   .text-project-right-1, .text-project-left-1 {
     font-size: 16px;
+  }
+
+  .text-project-right-2, .text-project-left-2 {
+    line-height: 1.5;
   }
 
   .text-project-right-3, .text-project-left-3 {
@@ -210,7 +218,7 @@
   }
 
   .text-contact-2 {
-    width: 83vw;
+    width: 86vw;
   }
   
   /* ---------- Footer ---------- */

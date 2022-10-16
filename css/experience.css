@@ -26,7 +26,7 @@
 /* Button - Experience */
 .btn-exp-group {
   width: 160px;
-  max-height: 220px;
+  max-height: 230px;
   margin-right: 10px;
 }
 
@@ -38,7 +38,7 @@
   margin-bottom: 5px;
   background-color: var(--secondary-color);
   padding: 10px;
-  max-height: 40px;
+  max-height: 42px;
   /* max-width: 200px; */
 }
 
@@ -57,9 +57,9 @@
   color: #F5F5F5 !important;
 }
 
-/* #btnExp4, #btnExp5 {
+#btnExp4, #btnExp5 {
   visibility: hidden;
-} */
+}
 
 /* Text - Experience */
 .text-exp-group {
