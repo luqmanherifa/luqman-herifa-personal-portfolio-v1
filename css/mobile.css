@@ -2,31 +2,31 @@
 @media (max-width: 768px) {
 
   /* ---------- Navbar ---------- */
-  /* .navbar-responsive-order {
+  .navbar-responsive-order {
     order: 1;
-  } */
+  }
 
-  /* .navbar-toggler {
+  .navbar-toggler {
     width: 25px;
     height: 25px;
     border: none;
-  } */
+  }
 
   /* .navbar-toggler:focus {
     display: none;
   } */
 
-  /* .navbar-nav {
+  .navbar-nav {
     margin-top: 7px;
-  } */
+  }
 
-  /* .icon-toggler {
+  .icon-toggler {
     margin-left: -9px;
-  } */
+  }
 
-  /* .icon-toggler:hover {
+  .icon-toggler:hover {
     color: #006FE6;
-  } */
+  }
 
   .icon-navbrand, .icon-dark {
     display: none;
