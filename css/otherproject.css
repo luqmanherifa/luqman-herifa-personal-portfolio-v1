@@ -83,9 +83,17 @@
 }
 
 /* Icon - Other Project */
+.icon-other-group, .icon-other-1, .icon-other-2 {
+  background-color: #006FE6;
+}
+
+.icon-other-1 {
+  max-width: 50px;
+}
+
 .icon-other-project {
   margin-bottom: 17px;
-  margin-right: 163px;
+  /* margin-right: 163px; */
   background-color: #006FE6;
   color: #F5F5F5;
   width: 30px;
