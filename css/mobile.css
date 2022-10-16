@@ -6,7 +6,7 @@
     order: 1;
   }
 
-  /* .navbar-toggler {
+  .navbar-toggler {
     width: 25px;
     height: 25px;
     border: none;
@@ -26,15 +26,12 @@
 
   .icon-toggler:hover {
     color: #006FE6;
-  } */
-
-  .icon-navbrand, .icon-dark {
-    display: none;
   }
 
   /* ---------- Home ---------- */
   .home {
     margin-bottom: 240px;
+    padding: none;
   }
 
   .content-home {
