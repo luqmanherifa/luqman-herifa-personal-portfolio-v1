@@ -11,8 +11,8 @@
 .other-project-group {
   padding: 25px;
   background: #006FE6;
-  width: 270px;
-  height: 300px;
+  width: 250px;
+  height: 310px;
   margin: 0 10px 20px;
   border-radius: 5px;
   box-shadow: 0px 3px 10px grey;
@@ -24,7 +24,7 @@
 
 .other-project-group p {
   background-color: #006FE6;
-  margin-bottom: 17px;
+  margin-bottom: 15px;
 }
 
 #otherProjectHidden1, #otherProjectHidden2, #otherProjectHidden3 {
@@ -42,7 +42,7 @@
 
 /* Text - Other Project */
 .text-other-1 {
-  font-size: 20px;
+  font-size: 19px;
   font-weight: 700;
   color: #F5F5F5;
 }
