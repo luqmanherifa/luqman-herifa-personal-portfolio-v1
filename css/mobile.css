@@ -2,9 +2,9 @@
 @media (max-width: 768px) {
 
   /* ---------- Navbar ---------- */
-  .navbar-responsive-order {
+  /* .navbar-responsive-order {
     order: 1;
-  }
+  } */
 
   .navbar-toggler {
     width: 25px;
