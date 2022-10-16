@@ -12,9 +12,9 @@
     border: none;
   }
 
-  /* .navbar-toggler:focus {
-    display: none;
-  } */
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
 
   .navbar-nav {
     margin-top: 7px;
