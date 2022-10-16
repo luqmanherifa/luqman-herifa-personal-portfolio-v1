@@ -1,11 +1,20 @@
 /* Tablet Version */
-@media (min-width: 768px) and (max-width: 1200px) {
+@media (min-width: 768px) and (max-width: 992px) {
   
   /* ---------- Navbar ---------- */
-  .navbar-responsive-order {
-    order: 1;
+  .navbar-order {
+    order: 3;
   }
 
+  .navbar-nav {
+    margin-top: 7px;
+  }
+
+  .nav-link {
+    margin: 0px 0px;
+    text-align: right;
+  }
+  
   .navbar-toggler {
     width: 25px;
     height: 25px;
@@ -13,11 +22,7 @@
   }
 
   .navbar-toggler:focus {
-    display: none;
-  }
-
-  .navbar-nav {
-    margin-top: 7px;
+    box-shadow: none;
   }
 
   .icon-toggler {

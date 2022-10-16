@@ -59,27 +59,14 @@
         data-aos="fade-down"
         data-aos-delay="100"
       >
-        <div class="container bg-navbar">
-          <div>
-            <button
-              class="navbar-toggler"
-              type="button"
-              data-bs-toggle="collapse"
-              data-bs-target="#navbarNav"
-              aria-controls="navbarNav"
-              aria-expanded="false"
-              aria-label="Toggle navigation"
-            >
-              <span><i class="fa-solid fa-bars fa-xl icon-toggler"></i></span>
-            </button>
-          </div>
+        <div class="container content-navbar bg-navbar">
           <div data-aos="fade-down" data-aos-delay="200">
             <a class="icon-navbrand" href=""
               ><img src="images/iconweb.png" alt=""
             /></a>
           </div>
           <div
-            class="collapse navbar-collapse justify-content-center bg-navbar navbar-responsive-order"
+            class="collapse navbar-collapse justify-content-center bg-navbar navbar-order"
             id="navbarNav"
           >
             <ul class="navbar-nav">
@@ -123,6 +110,19 @@
           <div class="icon-dark" data-aos="fade-down" data-aos-delay="800">
             <i class="fa-solid fa-moon fa-xl" id="icon-dark"></i>
           </div>
+          <div data-aos="fade-down" data-aos-delay="900">
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarNav"
+              aria-controls="navbarNav"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span><i class="fa-solid fa-bars fa-xl icon-toggler"></i></span>
+            </button>
+          </div>
         </div>
       </nav>
 
@@ -162,17 +162,28 @@
         <div class="row justify-content-center heading-about">
           <p class="title-about">About Me</p>
         </div>
-        <div class="row justify-content-center content-about">
-          <p class="text-about">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            Voluptatibus hic excepturi earum asperiores velit beatae a ea.
-            Sapiente accusamus quidem corrupti ea dicta vero sequi quibusdam
-            totam, aliquid est rerum eius veritatis pariatur nam autem vitae
-            assumenda molestias, maxime eum magnam facere rem! Dolores
-            voluptates eos doloribus mollitia provident adipisci minus modi
-            repellendus, ab, esse error, iste praesentium exercitationem aut!
-          </p>
-          <img src="images/fotoprofilceritanya.jpg" alt="" class="img-about" />
+        <div class="container content-about">
+          <div class="row justify-content-center">
+            <div class="content-text-about">
+              <p class="text-about">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Voluptatibus hic excepturi earum asperiores velit beatae a ea.
+                Sapiente accusamus quidem corrupti ea dicta vero sequi quibusdam
+                totam, aliquid est rerum eius veritatis pariatur nam autem vitae
+                assumenda molestias, maxime eum magnam facere rem! Dolores
+                voluptates eos doloribus mollitia provident adipisci minus modi
+                repellendus, ab, esse error, iste praesentium exercitationem
+                aut!
+              </p>
+            </div>
+            <div class="content-img-about">
+              <img
+                src="images/fotoprofilceritanya.png"
+                alt=""
+                class="img-about"
+              />
+            </div>
+          </div>
         </div>
       </div>
 
@@ -298,9 +309,11 @@
               </div>
               <div class="col text-project-group-1">
                 <p class="text-project-right-1">#1 Featured Project</p>
-                <a href="" target="_blank"
+                <a
+                  href="https://github.com/luqmanherifa/luqman-herifa-personal-portfolio"
+                  target="_blank"
                   ><p class="text-project-right-2">
-                    Luqman Herifa - Personal Portfolio
+                    Luqman Herifa: Personal Portfolio
                     <i
                       class="fa-solid fa-arrow-up-right-from-square icon-project-arrow"
                     ></i></p
@@ -319,7 +332,9 @@
             <div class="row">
               <div class="col text-project-group-2">
                 <p class="text-project-left-1">#2 Featured Project</p>
-                <a href="https://luqmanherifa.itch.io/swanify" target="_blank"
+                <a
+                  href="https://github.com/luqmanherifa/swanify-belajar-penulisan-ejaan"
+                  target="_blank"
                   ><p class="text-project-left-2">
                     <i
                       class="fa-solid fa-arrow-up-right-from-square icon-project-arrow"
@@ -334,7 +349,7 @@
                 </p>
                 <p class="text-project-left-4">Lorem | Ipsum | Dolor | Sit</p>
               </div>
-              <div class="col">
+              <div class="col img-project-2-order">
                 <img
                   src="images/fotoprojectceritanya.png"
                   alt=""
@@ -356,7 +371,7 @@
               <div class="col text-project-group-3">
                 <p class="text-project-right-1">#3 Featured Project</p>
                 <a
-                  href="https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.winzard"
+                  href="https://github.com/luqmanherifa/winzard-bermain-belajar-biologi"
                   target="_blank"
                   ><p class="text-project-right-2">
                     Winzard: Bermain Belajar Biologi
@@ -393,7 +408,9 @@
           >
             <div class="other-project-group">
               <i class="fa-solid fa-book fa-xl icon-other-project"></i>
-              <a href=""
+              <a
+                href="https://github.com/luqmanherifa/starfield-katalog-perpustakaan"
+                target="_blank"
                 ><i
                   class="fa-solid fa-arrow-up-right-from-square fa-xl icon-other-arrow"
                 ></i
@@ -533,7 +550,9 @@
 
       <!-- Footer -->
       <div class="container footer" id="footer">
-        <a href="https://github.com/luqmanherifa" target="_blank"
+        <a
+          href="https://github.com/luqmanherifa/luqman-herifa-personal-portfolio"
+          target="_blank"
           ><p class="text-footer">© 2022 • Built by Luqman Herifa</p></a
         >
       </div>

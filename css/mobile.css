@@ -2,8 +2,21 @@
 @media (max-width: 768px) {
 
   /* ---------- Navbar ---------- */
-  .navbar-responsive-order {
-    order: 1;
+  .content-navbar {
+    width: 93vw;
+  }
+
+  .navbar-order {
+    order: 3;
+  }
+
+  .navbar-nav {
+    margin-top: 7px;
+  }
+
+  .nav-link {
+    margin: 0px 0px;
+    text-align: right;
   }
 
   .navbar-toggler {
@@ -14,10 +27,6 @@
 
   .navbar-toggler:focus {
     box-shadow: none;
-  }
-
-  .navbar-nav {
-    margin-top: 7px;
   }
 
   .icon-toggler {
@@ -54,6 +63,10 @@
     margin-bottom: 70px;
   }
 
+  .content-about {
+    width: 93vw;
+  }
+
   .title-about {
     width: 93vw;
   }
@@ -62,14 +75,14 @@
     margin-left: 130px;
   }
 
-  .text-about {
+  .content-text-about {
     width: 93vw;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
 
   .img-about {
-    width: 55vw;
-    height: auto;
+    display: block;
+    margin: auto;
   }
 
   /* ---------- Experience ---------- */
@@ -132,6 +145,10 @@
     margin-left: 100px;
   }
 
+  .text-project-group-2 {
+    order: 2;
+  }
+
   .text-project-right-1, .text-project-left-1 {
     font-size: 16px;
   }
@@ -145,6 +162,10 @@
     font-size: 16px;
   }
 
+  .text-project-right-2, .text-project-left-2 {
+    width: 64vw;
+  }
+
   .text-project-right-1, .text-project-right-2, .text-project-right-3, .text-project-right-4 {
     text-align: left;
   }
@@ -153,12 +174,12 @@
     width: 87vw;
   }
 
-  .img-project-1, .img-project-3 {
+  .img-project-1, .img-project-2, .img-project-3 {
     margin-bottom: 20px;
   }
 
-  .img-project-2 {
-    margin-top: 20px;
+  .img-project-2-order {
+    order: 1;
   }
 
   /* ---------- Other Project ---------- */
@@ -198,7 +219,7 @@
   .text-contact-2 {
     width: 83vw;
   }
-
+  
   /* ---------- Footer ---------- */
   .text-footer {
     font-size: 14px;

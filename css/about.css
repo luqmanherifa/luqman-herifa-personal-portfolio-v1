@@ -3,6 +3,11 @@
   margin-bottom: 131px;
 }
 
+/* Object - Project */
+.content-about {
+  width: 570px;
+}
+
 /* Title - About */
 .title-about {
   color: #006FE6;
@@ -24,17 +29,22 @@
 }
 
 /* Text - About */
-.text-about {
+.content-text-about {
   width: 350px;
+}
+
+.text-about {
   line-height: 1.7;
 }
 
 /* Image - About */
+.content-img-about {
+  width: 220px;
+}
+
 .img-about {
-  width: 200px;
-  height: 200px;
+  width: 188px;
   border-radius: 4px;
-  margin-left: 20px;
   padding: 0px;
   box-shadow: 8px 8px #006FE6;
 }
