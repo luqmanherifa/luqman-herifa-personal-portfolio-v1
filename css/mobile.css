@@ -6,7 +6,7 @@
     width: 93vw;
   }
 
-  .navbar-order {
+  .navbar-mobile {
     order: 3;
   }
 
@@ -107,7 +107,10 @@
 
   .btn-exp {
     margin: 0 2px;
-    height: 40px;
+  }
+
+  .btn-mobile {
+    margin-top: -1px;
   }
   
   #btnExp4, #btnExp5 {
@@ -179,7 +182,7 @@
     margin-bottom: 30px;
   }
 
-  .img-project-2-order {
+  .img-project-2-mobile {
     order: 1;
   }
 
