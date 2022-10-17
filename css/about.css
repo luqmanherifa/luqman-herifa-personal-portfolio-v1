@@ -1,6 +1,6 @@
 /* About */
 .about {
-  margin-bottom: 131px;
+  margin-bottom: 93px;
 }
 
 /* Object - Project */
@@ -35,6 +35,7 @@
 
 .text-about {
   line-height: 1.7;
+  margin-bottom: 13px;
 }
 
 /* Image - About */

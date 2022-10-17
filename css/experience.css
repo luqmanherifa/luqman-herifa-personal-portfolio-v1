@@ -57,9 +57,9 @@
   color: #F5F5F5 !important;
 }
 
-#btnExp4, #btnExp5 {
+/* #btnExp4, #btnExp5 {
   visibility: hidden;
-}
+} */
 
 /* Text - Experience */
 .text-exp-group {
@@ -77,12 +77,12 @@
 }
 
 .text-exp-2 {
-  font-size: 13px;
-  margin: -13px 0 10px;
+  font-size: 14px;
+  margin: -10px 0 10px;
 }
 
 .text-exp-3 {
-  font-size: 14px;
+  font-size: 15px;
   margin-bottom: 5px;
 }
 

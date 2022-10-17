@@ -1,6 +1,6 @@
 /* Home */
 .home {
-  margin-bottom: 159px;
+  margin-bottom: 109px;
   padding: 1px;
 }
 
@@ -37,8 +37,8 @@
   border-color: #006FE6;
   color: #006FE6;
   border-radius: 10px;
-  margin-left: 3px;
-  padding: 10px 40px;
+  margin: 0 0 50px 3px;
+  padding: 10px 30px;
   font-weight: 600;
   box-shadow: 0px 6px #006FE6;
   border: 2px solid #006FE6;

@@ -55,7 +55,7 @@
   }
 
   .btn-home {
-    padding: 10px 30px;
+    margin-bottom: 20px;
   }
 
   /* ---------- About ---------- */
@@ -83,6 +83,7 @@
   .img-about {
     display: block;
     margin: auto;
+    margin-top: 5px;
   }
 
   /* ---------- Experience ---------- */
@@ -128,7 +129,7 @@
 
   .text-exp-2 {
     font-size: 16px;
-    margin: -5px 0 10px;
+    margin: -15px 0 10px;
   }
 
   .text-exp-3 {
@@ -184,6 +185,10 @@
 
   .img-project-2-mobile {
     order: 1;
+  }
+
+  .icon-project-arrow {
+    display: none;
   }
 
   /* ---------- Other Project ---------- */
