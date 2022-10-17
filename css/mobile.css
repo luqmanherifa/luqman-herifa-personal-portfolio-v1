@@ -116,7 +116,7 @@
 
   .text-exp-group {
     width: 93vw;
-    height: 300px;
+    height:unset;
   }
 
   .text-exp-1 {
