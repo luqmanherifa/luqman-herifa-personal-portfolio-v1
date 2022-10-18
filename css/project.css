@@ -84,11 +84,11 @@
 
 /* Shadow - Project */
 .shadow-text-project-right, .shadow-img-project-left {
-  box-shadow: 3px 3px 10px grey;
+  box-shadow: 2px 2px 5px grey;
 }
 
 .shadow-text-project-left, .shadow-img-project-right {
-  box-shadow: -3px 3px 10px grey;
+  box-shadow: -2px 2px 5px grey;
 }
 
 /* Icon - Project */
