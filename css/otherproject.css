@@ -19,11 +19,11 @@
 }
 
 .other-project-group a {
-  background-color: #006FE6;
+  background-color: unset;
 }
 
 .other-project-group p {
-  background-color: #006FE6;
+  background-color: unset;
 }
 
 #otherProjectHidden1, #otherProjectHidden2, #otherProjectHidden3, #otherProjectHidden4, #otherProjectHidden5, #otherProjectHidden6 {
@@ -88,7 +88,7 @@
 
 /* Icon - Other Project */
 .icon-other-group, .icon-other-1, .icon-other-2 {
-  background-color: #006FE6;
+  background-color: unset;
 }
 
 .icon-other-1 {
@@ -97,14 +97,14 @@
 
 .icon-other-project {
   margin-bottom: 18px;
-  background-color: #006FE6;
+  background-color: unset;
   color: #F5F5F5;
   width: 30px;
   height: 12px;
 }
 
 .icon-other-arrow {
-  background-color: #006FE6;
+  background-color: unset;
   color: #003670;
 }
 
