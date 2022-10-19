@@ -171,7 +171,7 @@
   }
 
   .text-project-right-4, .text-project-left-4 {
-    font-size: 16px;
+    font-size: 13px;
   }
 
   .text-project-right-1, .text-project-right-2, .text-project-right-3, .text-project-right-4 {
@@ -201,15 +201,12 @@
   }
 
   .other-project-group {
-    height: 330px;
+    height: 335px;
   }
 
-  .text-other-2, .text-other-3 {
+  .text-other-2 {
     font-size: 16px;
-  }
-
-  .icon-other-project {
-    margin-right: 41vw;
+    height: 145px;
   }
 
   /* ---------- Contact ---------- */
