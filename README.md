@@ -20,6 +20,7 @@ Deployment
   - GitHub Pages
   - Vercel
   - Niagahoster
+
 Software
   - Visual Studio Code
   - CorelDRAW
