@@ -5,19 +5,22 @@ Luqman Herifa is a web personal portfolio contain about me, skills, education an
 ![Display](https://luqmanherifa.site/images/imgluqmanherifa.png)
 
 ## Build
-- Programming
+Programming
   - HTML
   - CSS
   - JavaScript
   - Bootstrap
-- Library
+
+Library
   - Google Fonts
   - Font Awesome
   - Animate on Scroll
-- Software
+
+Software
   - Visual Studio Code
   - CorelDRAW
-- Deployment
+
+Deployment
   - GitHub Pages
   - Vercel
   - Niagahoster
