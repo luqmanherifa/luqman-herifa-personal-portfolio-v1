@@ -16,11 +16,22 @@ Library
   - Font Awesome
   - Animate on Scroll
 
+Software
+  - Visual Studio Code
+  - CorelDRAW
+
 Deployment
   - GitHub Pages
   - Vercel
   - Niagahoster
 
-Software
-  - Visual Studio Code
-  - CorelDRAW
+## Contact
+  - Email     : [luqmanherifa@gmail.com](mailto:luqmanherifa@gmail.com)
+  - GitHub    : [github.com/luqmanherifa](https://github.com/luqmanherifa)
+  - LinkedIn  : [linkedin.com/in/luqmanherifa](https://www.linkedin.com/in/luqmanherifa)
+
+## Acknowledgments
+  - [Sandhika Galih](https://github.com/sandhikagalih)
+  - [Brittany Chiang](https://brittanychiang.com)
+  - [Stack Overflow](https://stackoverflow.com)
+  - [W3Schools](https://www.w3schools.com)
