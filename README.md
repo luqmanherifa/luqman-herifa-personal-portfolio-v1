@@ -6,10 +6,10 @@ Luqman Herifa is a web personal portfolio contain about me, skills, education an
 
 ## Build
 - Programming
-  -. HTML
-  -. CSS
-  -. Bootstrap
-  -. JavaScript
+  - HTML
+  - CSS
+  - Bootstrap
+  - JavaScript
 - Library
   1. Google Fonts
   2. Font Awesome
