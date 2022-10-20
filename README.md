@@ -11,13 +11,13 @@ Luqman Herifa is a web personal portfolio contain about me, skills, education an
   - Bootstrap
   - JavaScript
 - Library
-  1. Google Fonts
-  2. Font Awesome
-  3. Animate on Scroll
+  - Google Fonts
+  - Font Awesome
+  - Animate on Scroll
 - Hosting
-  1. GitHub Pages
-  2. Vercel
-  3. Niagahoster
+  - GitHub Pages
+  - Vercel
+  - Niagahoster
 - Software
-  1. Visual Studio Code
-  2. CorelDRAW
+  - Visual Studio Code
+  - CorelDRAW
