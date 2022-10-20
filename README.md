@@ -6,7 +6,7 @@ Luqman Herifa is a web personal portfolio contain about me, skills, education an
 
 ## Build
 - Programming
- - HTML
+  - HTML
   - CSS
   - Bootstrap
   - JavaScript
