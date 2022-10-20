@@ -10,14 +10,17 @@ Programming
   - CSS
   - JavaScript
   - Bootstrap
+
 Library
   - Google Fonts
   - Font Awesome
   - Animate on Scroll
+
 Deployment
   - GitHub Pages
   - Vercel
   - Niagahoster
+
 Software
   - Visual Studio Code
   - CorelDRAW
