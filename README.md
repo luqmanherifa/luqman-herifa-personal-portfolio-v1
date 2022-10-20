@@ -26,8 +26,8 @@ Deployment
   - Niagahoster
 
 ## Contact
-  - Email&ensp;&ensp;: [luqmanherifa@gmail.com](mailto:luqmanherifa@gmail.com)
-  - GitHub&ensp;: [github.com/luqmanherifa](https://github.com/luqmanherifa)
+  - Email&ensp;&ensp;&ensp;: [luqmanherifa@gmail.com](mailto:luqmanherifa@gmail.com)
+  - GitHub&ensp;&ensp;: [github.com/luqmanherifa](https://github.com/luqmanherifa)
   - LinkedIn&nbsp;: [linkedin.com/in/luqmanherifa](https://www.linkedin.com/in/luqmanherifa)
 
 ## Acknowledgments
