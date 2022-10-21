@@ -187,9 +187,17 @@
     order: 1;
   }
 
-  .icon-project-arrow {
-    display: none;
+  .shadow-text-project-right, .shadow-img-project-left {
+    box-shadow: 0px 2px 5px grey;
   }
+  
+  .shadow-text-project-left, .shadow-img-project-right {
+    box-shadow: 0px 2px 5px grey;
+  }
+
+  /* .icon-project-arrow {
+    display: none;
+  } */
 
   /* ---------- Other Project ---------- */
   .other-project {
@@ -225,10 +233,4 @@
   .text-contact-2 {
     width: 86vw;
   }
-  
-  /* ---------- Footer ---------- */
-  .text-footer {
-    font-size: 14px;
-  }
-
 }
