@@ -19,6 +19,7 @@ Library
 Software
   - Visual Studio Code
   - CorelDRAW
+  - Figma
 
 Deployment
   - GitHub Pages
@@ -32,6 +33,6 @@ Deployment
 
 ## Acknowledgments
   - [Sandhika Galih](https://github.com/sandhikagalih)
-  - [Brittany Chiang](https://brittanychiang.com)
+  - [Brittany Chiang](https://github.com/bchiang7)
   - [Stack Overflow](https://stackoverflow.com)
   - [W3Schools](https://www.w3schools.com)
