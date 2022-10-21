@@ -31,7 +31,7 @@ Deployment
   - GitHub   : [github.com/luqmanherifa](https://github.com/luqmanherifa)
   - LinkedIn : [linkedin.com/in/luqmanherifa](https://www.linkedin.com/in/luqmanherifa)
 
-## Acknowledgments
+## Thanks to
   - [Sandhika Galih](https://github.com/sandhikagalih)
   - [Brittany Chiang](https://github.com/bchiang7)
   - [Stack Overflow](https://stackoverflow.com)
