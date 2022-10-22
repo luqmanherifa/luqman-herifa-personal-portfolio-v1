@@ -83,7 +83,6 @@
   .img-about {
     display: block;
     margin: auto;
-    margin-top: 5px;
   }
 
   /* ---------- Experience ---------- */
@@ -178,20 +177,23 @@
     text-align: left;
   }
 
+  .figure-project-right, .figure-project-left {
+    margin-bottom: 20px;
+  }
+
   .img-project-1, .img-project-2, .img-project-3 {
     width: 87vw;
-    margin-bottom: 30px;
   }
 
   .img-project-2-mobile {
     order: 1;
   }
 
-  .shadow-text-project-right, .shadow-img-project-left {
+  .shadow-text-project-right, .figure-project-left {
     box-shadow: 0px 2px 5px grey;
   }
   
-  .shadow-text-project-left, .shadow-img-project-right {
+  .shadow-text-project-left, .figure-project-right {
     box-shadow: 0px 2px 5px grey;
   }
 
@@ -219,7 +221,7 @@
 
   /* ---------- Contact ---------- */
   .contact {
-    margin-bottom: 70px;
+    margin-bottom: 110px;
   }
 
   .title-contact {

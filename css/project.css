@@ -74,20 +74,35 @@
 }
 
 /* Image - Project */
+.img-project-zoomin img {
+  transform: scale(1);
+  transition: 0.3s ease-in-out;
+}
+
+.img-project-zoomin:hover img {
+  transform: scale(1.3);
+}
+
+.figure-project-right, .figure-project-left {
+  overflow: hidden;
+  cursor: pointer;
+  margin-bottom: 0px;
+  border-radius: 4px;
+}
+
 .img-project-1, .img-project-2, .img-project-3 {
   width: 485px;
-  border-radius: 4px;
   padding: 0px;
   display: block;
   margin: auto;
 }
 
 /* Shadow - Project */
-.shadow-text-project-right, .shadow-img-project-left {
+.shadow-text-project-right, .figure-project-left {
   box-shadow: 2px 2px 5px grey;
 }
 
-.shadow-text-project-left, .shadow-img-project-right {
+.shadow-text-project-left, .figure-project-right  {
   box-shadow: -2px 2px 5px grey;
 }
 

@@ -43,9 +43,24 @@
   width: 220px;
 }
 
+.img-about-zoomin img {
+  transform: scale(1);
+  transition: 0.3s ease-in-out;
+}
+
+.img-about-zoomin:hover img {
+  transform: scale(1.3);
+}
+
+.figure-about {
+  width: 188px;
+  overflow: hidden;
+  cursor: pointer;
+  padding: 0px;
+  border-radius: 4px;
+  box-shadow: 8px 8px #006FE6;
+}
+
 .img-about {
   width: 188px;
-  border-radius: 4px;
-  padding: 0px;
-  box-shadow: 8px 8px #006FE6;
 }
