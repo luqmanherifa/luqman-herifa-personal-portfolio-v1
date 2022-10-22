@@ -103,6 +103,7 @@
     margin-right: 0px;
     margin-bottom: 20px;
     flex-direction: row;
+    /* max-width: 23vw; */
   }
 
   .btn-exp {

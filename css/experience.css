@@ -39,7 +39,6 @@
   background-color: var(--secondary-color);
   padding: 10px;
   max-height: 42px;
-  /* max-width: 200px; */
 }
 
 .btn-exp:hover {
