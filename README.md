@@ -16,7 +16,7 @@ Library
   - Font Awesome
   - Animate on Scroll
 
-Software
+Tools
   - Visual Studio Code
   - CorelDRAW
   - Figma
