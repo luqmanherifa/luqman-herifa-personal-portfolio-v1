@@ -80,7 +80,7 @@
 }
 
 .img-project-zoomin:hover img {
-  transform: scale(1.3);
+  transform: scale(1.2);
 }
 
 .figure-project-right, .figure-project-left {
