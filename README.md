@@ -29,10 +29,10 @@ Deployment
   - Niagahoster
 
 ## Contact
-  - Email         : [luqmanherifa@gmail.com](mailto:luqmanherifa@gmail.com)
-  - Instagram : [instagram.com/luqmanherifa](https://www.instagram.com/luqmanherifa)
-  - GitHub      : [github.com/luqmanherifa](https://github.com/luqmanherifa)
-  - LinkedIn    : [linkedin.com/in/luqmanherifa](https://www.linkedin.com/in/luqmanherifa)
+  - [Email](mailto:luqmanherifa@gmail.com)
+  - [Instagram](https://www.instagram.com/luqmanherifa)
+  - [GitHub](https://github.com/luqmanherifa)
+  - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
 
 ## Thanks to
   - [Sandhika Galih](https://github.com/sandhikagalih)
