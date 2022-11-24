@@ -33,8 +33,8 @@ Font
   - [Inter](https://fonts.google.com/specimen/Inter)
   
 Color
-  - ![#006FE6](https://placehold.co/20x20/006FE6/006FE6.png)  #006FE6
-  - ![#5DABFF](https://placehold.co/20x20/5DABFF/5DABFF.png)  #5DABFF
+  - ![#006FE6](https://placehold.co/20x20/006FE6/006FE6.png)      #006FE6
+  - ![#5DABFF](https://placehold.co/20x20/5DABFF/5DABFF.png)    #5DABFF
   - ![#313F4E](https://placehold.co/20x20/313F4E/313F4E.png)  #313F4E
   - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
   - ![#001022](https://placehold.co/20x20/001022/001022.png)  #001022
