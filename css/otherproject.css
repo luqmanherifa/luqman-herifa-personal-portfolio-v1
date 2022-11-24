@@ -26,7 +26,7 @@
   background-color: unset;
 }
 
-#otherProjectHidden1, #otherProjectHidden2, #otherProjectHidden3, #otherProjectHidden4, #otherProjectHidden5, #otherProjectHidden6 {
+.other-project-hidden {
   display: none;
 }
 
