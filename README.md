@@ -20,8 +20,8 @@ Library
 
 Tools
   - Visual Studio Code
-  - CorelDRAW
   - Figma
+  - CorelDRAW
 
 Deployment
   - GitHub Pages
