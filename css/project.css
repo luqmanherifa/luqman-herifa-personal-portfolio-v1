@@ -91,7 +91,7 @@
   border-radius: 4px;
 }
 
-.img-project-1, .img-project-2, .img-project-3, .img-project-4 {
+.img-project-left, .img-project-right {
   width: 485px;
   padding: 0px;
   display: block;

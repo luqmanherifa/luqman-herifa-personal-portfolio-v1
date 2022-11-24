@@ -182,11 +182,11 @@
     margin-bottom: 20px;
   }
 
-  .img-project-1, .img-project-2, .img-project-3, .img-project-4 {
+  .img-project-left, .img-project-right {
     width: 87vw;
   }
 
-  .img-project-2-mobile, .img-project-4-mobile {
+  .img-project-mobile, .img-project-mobile {
     order: 1;
   }
 
