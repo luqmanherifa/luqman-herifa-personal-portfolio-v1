@@ -153,7 +153,7 @@
     margin-left: 100px;
   }
 
-  .text-project-group-2 {
+  .text-project-group-2, .text-project-group-4 {
     order: 2;
   }
 
@@ -182,20 +182,12 @@
     margin-bottom: 20px;
   }
 
-  .img-project-1, .img-project-2, .img-project-3 {
+  .img-project-1, .img-project-2, .img-project-3, .img-project-4 {
     width: 87vw;
   }
 
-  .img-project-2-mobile {
+  .img-project-2-mobile, .img-project-4-mobile {
     order: 1;
-  }
-
-  .shadow-text-project-right, .figure-project-left {
-    box-shadow: 0px 2px 5px grey;
-  }
-  
-  .shadow-text-project-left, .figure-project-right {
-    box-shadow: 0px 2px 5px grey;
   }
 
   /* .icon-project-arrow {
