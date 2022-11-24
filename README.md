@@ -35,7 +35,7 @@ Font
 Color
   - #006FE6
   - #313F4E
-  - [#006FE6](https://placehold.co/15x15/006FE6/006FE6.png) `#006FE6`
+  - ![#006FE6](https://placehold.co/15x15/006FE6/006FE6.png) #006FE6
   
 
 ## Contact
