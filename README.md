@@ -33,9 +33,9 @@ Font
   - [Inter](https://fonts.google.com/specimen/Inter)
   
 Color
-  - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
-  - ![#313F4E](https://placehold.co/20x20/313F4E/313F4E.png)  #313F4E
   - ![#006FE6](https://placehold.co/20x20/006FE6/006FE6.png)  #006FE6
+  - ![#313F4E](https://placehold.co/20x20/313F4E/313F4E.png)  #313F4E
+  - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
   - ![#001022](https://placehold.co/20x20/001022/001022.png)  #001022
   
 ## Contact
@@ -45,7 +45,7 @@ Color
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
 
 ## Thanks to
-  - [Sandhika Galih](https://github.com/sandhikagalih)
+  - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
   - [Brittany Chiang](https://github.com/bchiang7)
   - [Stack Overflow](https://stackoverflow.com)
   - [W3Schools](https://www.w3schools.com)
