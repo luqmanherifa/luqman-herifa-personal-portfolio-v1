@@ -24,9 +24,9 @@ Tools
   - CorelDRAW
 
 Deployment
-  - GitHub Pages
-  - Vercel
-  - Niagahoster
+  - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio)
+  - [Vercel](https://luqmanherifa.vercel.app)
+  - [Niagahoster](https://luqmanherifa.site)
 
 ## Design
 Font
