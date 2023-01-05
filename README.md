@@ -24,6 +24,9 @@ Deployment
   - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio)
   - [Vercel](https://luqmanherifa.vercel.app)
   - [Niagahoster](https://luqmanherifa.site)
+  
+Date Created
+  - September — October 2022
 
 ## Design
 Font
