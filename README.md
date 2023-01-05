@@ -7,37 +7,37 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - [Vercel](https://luqmanherifa.vercel.app)
   - [Niagahoster](https://luqmanherifa.site)
 
-Date Created
+### Date Created
   - September — October 2022
 
 ## Display
 ![Display](https://luqmanherifa.site/img/imgluqmanherifa.png)
 
 ## Software
-Language
+### Language
   - HTML/CSS
   - JavaScript
 
-Library
+### Library
   - Bootstrap
   - Google Fonts
   - Font Awesome
   - Animate on Scroll
 
-Tools
+### Tools
   - Visual Studio Code
   
 ## Design
-Font
+### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
   
-Color
+### Color
   - ![#006FE6](https://placehold.co/20x20/006FE6/006FE6.png)  #006FE6
   - ![#313F4E](https://placehold.co/20x20/313F4E/313F4E.png)  #313F4E
   - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
   - ![#001022](https://placehold.co/20x20/001022/001022.png)  #001022
   
-Tools
+### Tools
   - Figma
   - CorelDRAW
   
