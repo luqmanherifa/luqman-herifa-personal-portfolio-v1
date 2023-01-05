@@ -9,10 +9,8 @@ Programming
   - HTML/CSS
   - JavaScript
 
-Framework
-  - Bootstrap
-
 Library
+  - Bootstrap
   - Google Fonts
   - Font Awesome
   - Animate on Scroll
