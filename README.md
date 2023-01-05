@@ -5,11 +5,11 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
 ![Display](https://luqmanherifa.site/img/imgluqmanherifa.png)
 
 ## Software
-### Language
+### Languages
   - HTML/CSS
   - JavaScript
 
-### Library
+### Libraries
   - Bootstrap
   - Google Fonts
   - Font Awesome
@@ -19,10 +19,10 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - Visual Studio Code
   
 ## Design
-### Font
+### Fonts
   - [Inter](https://fonts.google.com/specimen/Inter)
   
-### Color
+### Colors
   - ![#006FE6](https://placehold.co/20x20/006FE6/006FE6.png)  #006FE6
   - ![#313F4E](https://placehold.co/20x20/313F4E/313F4E.png)  #313F4E
   - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
@@ -33,7 +33,7 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - CorelDRAW
 
 ## Build
-### Deployment
+### Deployments
   - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio)
   - [Vercel](https://luqmanherifa.vercel.app)
   - [Niagahoster](https://luqmanherifa.site)
@@ -41,7 +41,7 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
 ### Date Created
   - September — October 2022
   
-## Contact
+## Contacts
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [GitHub](https://github.com/luqmanherifa)
