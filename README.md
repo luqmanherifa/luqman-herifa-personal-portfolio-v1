@@ -1,15 +1,6 @@
 # Luqman Herifa: Personal Portfolio
 Luqman Herifa is a web personal portfolio contains about me, my skills, education and experience, projects that have been developed, and social media contacts. The project was developed for personal portfolio using HTML/CSS and JavaScript programming.
 
-## Build
-### Deployment
-  - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio)
-  - [Vercel](https://luqmanherifa.vercel.app)
-  - [Niagahoster](https://luqmanherifa.site)
-
-### Date Created
-  - September — October 2022
-
 ## Display
 ![Display](https://luqmanherifa.site/img/imgluqmanherifa.png)
 
@@ -40,6 +31,15 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
 ### Tools
   - Figma
   - CorelDRAW
+
+## Build
+### Deployment
+  - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio)
+  - [Vercel](https://luqmanherifa.vercel.app)
+  - [Niagahoster](https://luqmanherifa.site)
+
+### Date Created
+  - September — October 2022
   
 ## Contact
   - [Email](mailto:luqmanherifa@gmail.com)
