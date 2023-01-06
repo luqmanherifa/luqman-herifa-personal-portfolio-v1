@@ -37,6 +37,11 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio)
   - [Vercel](https://luqmanherifa.vercel.app)
   - [Niagahoster](https://luqmanherifa.site)
+  
+### Responsive
+  - Desktop
+  - Tablet
+  - Mobile
 
 ### Date Created
   - September — October 2022
