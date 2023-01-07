@@ -9,17 +9,17 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - HTML/CSS
   - JavaScript
 
-### Libraries
+- ### Libraries
   - Bootstrap
   - Google Fonts
   - Font Awesome
   - Animate on Scroll
 
-### Tools
+- ### Tool
   - Visual Studio Code
   
 ## Design
-### Fonts
+- ### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
   
 ### Colors
@@ -28,31 +28,31 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
   - ![#001022](https://placehold.co/20x20/001022/001022.png)  #001022
   
-### Tools
+- ### Tools
   - Figma
   - CorelDRAW
 
 ## Build
-### Deployments
+- ### Deployments
   - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio)
   - [Vercel](https://luqmanherifa.vercel.app)
   - [Niagahoster](https://luqmanherifa.site)
   
-### Responsive
+- ### Responsive
   - Desktop
   - Tablet
   - Mobile
 
-### Date Created
+- ### Date Created
   - September — October 2022
   
-## Socials
+- ### Socials
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
   - [Dribbble](https://dribbble.com/luqmanherifa)
 
-## Thanks to
+- ### Thanks to
   - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
   - [Brittany Chiang](https://github.com/bchiang7)
   - [Stack Overflow](https://stackoverflow.com)
