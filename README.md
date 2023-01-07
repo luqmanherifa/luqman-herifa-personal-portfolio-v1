@@ -15,7 +15,7 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - Font Awesome
   - Animate on Scroll
 
-- ### Tools
+- ### Tool
   - Visual Studio Code
   
 ## Design
