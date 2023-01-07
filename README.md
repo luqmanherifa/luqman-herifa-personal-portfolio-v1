@@ -46,13 +46,13 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
 - ### Date Created
   - September — October 2022
   
-- ### Socials
+## Socials
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
   - [Dribbble](https://dribbble.com/luqmanherifa)
 
-- ### Thanks to
+## Thanks to
   - [Sandhika Galih](https://www.youtube.com/@sandhikagalihWPU)
   - [Brittany Chiang](https://github.com/bchiang7)
   - [Stack Overflow](https://stackoverflow.com)
