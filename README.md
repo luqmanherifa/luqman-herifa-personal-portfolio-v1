@@ -15,14 +15,14 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - Font Awesome
   - Animate on Scroll
 
-- ### Tool
+- ### Tools
   - Visual Studio Code
   
 ## Design
 - ### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
   
-### Colors
+- ### Colors
   - ![#006FE6](https://placehold.co/20x20/006FE6/006FE6.png)  #006FE6
   - ![#313F4E](https://placehold.co/20x20/313F4E/313F4E.png)  #313F4E
   - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
