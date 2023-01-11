@@ -10,9 +10,9 @@ Luqman Herifa is a web personal portfolio contains about me, my skills, educatio
   - JavaScript
 
 - ### Libraries
-  - Bootstrap
   - Google Fonts
   - Font Awesome
+  - Bootstrap
   - Animate on Scroll
 
 - ### Tools
