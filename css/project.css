@@ -36,11 +36,11 @@
 }
 
 /* Text - Project */
-.text-project-group-1, .text-project-group-3, .text-project-group-5 {
+.text-project-align-right {
   text-align: right;
 }
 
-.text-project-group-2, .text-project-group-4 {
+.text-project-align-left {
   text-align: left;
 }
 
