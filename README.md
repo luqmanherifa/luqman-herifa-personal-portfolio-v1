@@ -33,6 +33,9 @@ Luqman Herifa is a web personal portfolio contains about me, education, projects
   - CorelDRAW
 
 ## Build
+- ### Platform
+  - Web
+  
 - ### Deployments
   - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio-v1)
   - [Vercel](https://luqmanherifav1-luqmanherifa.vercel.app)
