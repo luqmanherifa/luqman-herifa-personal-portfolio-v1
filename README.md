@@ -2,7 +2,7 @@
 Luqman Herifa is a web personal portfolio contains about me, education, projects that have been developed, and social media contacts. The project was developed for personal portfolio using HTML/CSS and JavaScript programming.
 
 ## Display
-![Display](https://cdn.dribbble.com/users/6699911/screenshots/20498408/media/522c20ec0451d45735e566d88a2924f3.png)
+![Display](https://cdn.dribbble.com/users/6699911/screenshots/20498414/media/03dd076f4fc91f807b4866192b9f8d6b.png)
 
 ## Software
 - ### Languages
