@@ -36,7 +36,7 @@ Luqman Herifa is a web personal portfolio contains about me, education, projects
 - ### Platform
   - Web
   
-- ### Deployments
+- ### Deployment
   - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio-v1)
   - [Vercel](https://luqmanherifav1-luqmanherifa.vercel.app)
   
@@ -48,7 +48,7 @@ Luqman Herifa is a web personal portfolio contains about me, education, projects
 - ### Date Created
   - September — October 2022
   
-## Socials
+## Social
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
