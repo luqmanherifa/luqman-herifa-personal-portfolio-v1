@@ -1,4 +1,4 @@
-# Luqman Herifa: Personal Portfolio v1
+# Luqman Herifa: Personal Portfolio v1 up
 Luqman Herifa is a personal portfolio v1 contains information about me, education, projects, and social media contacts based on web. The project was developed for personal portfolio using JavaScript, Bootstrap, HTML/CSS, and others.
 
 ## Display
