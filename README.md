@@ -44,7 +44,7 @@ Luqman Herifa is a personal portfolio v1 contains information about me, educatio
   - Mobile
   - Tablet
 
-- ### Date Created
+- ### Date created
   - September — October 2022
   
 ## Social
