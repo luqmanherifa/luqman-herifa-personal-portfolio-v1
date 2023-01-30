@@ -6,14 +6,14 @@ Luqman Herifa is a personal portfolio v1 contains information about me, educatio
 
 ## Software
 - ### Languages
-  - HTML/CSS
   - JavaScript
+  - HTML/CSS
 
 - ### Libraries
-  - Google Fonts
-  - Font Awesome
   - Bootstrap
   - Animate on Scroll
+  - Google Fonts
+  - Font Awesome
 
 - ### Tools
   - Visual Studio Code
@@ -24,7 +24,6 @@ Luqman Herifa is a personal portfolio v1 contains information about me, educatio
   
 - ### Colors
   - ![#006FE6](https://placehold.co/20x20/006FE6/006FE6.png)  #006FE6
-  - ![#313F4E](https://placehold.co/20x20/313F4E/313F4E.png)  #313F4E
   - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
   - ![#001022](https://placehold.co/20x20/001022/001022.png)  #001022
   
@@ -37,13 +36,13 @@ Luqman Herifa is a personal portfolio v1 contains information about me, educatio
   - Web
   
 - ### Deployment
-  - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio-v1)
   - [Vercel](https://luqmanherifav1-luqmanherifa.vercel.app)
-  
+  - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio-v1)
+
 - ### Responsive
   - Desktop
-  - Tablet
   - Mobile
+  - Tablet
 
 - ### Date Created
   - September — October 2022
