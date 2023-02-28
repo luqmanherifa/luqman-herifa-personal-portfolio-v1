@@ -37,7 +37,6 @@ Luqman Herifa is a personal portfolio v1 contains information about me, educatio
   
 - ### Deployment
   - [Vercel](https://luqmanherifav1-luqmanherifa.vercel.app)
-  - [GitHub Pages](https://luqmanherifa.github.io/luqman-herifa-personal-portfolio-v1)
 
 - ### Responsive
   - Desktop
