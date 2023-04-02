@@ -5,45 +5,45 @@ Luqman Herifa is a personal portfolio v1 contains information about me, educatio
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_luqmanherifav1.png)
 
 ## Software
-- ### Languages
+### Languages
   - JavaScript
   - HTML/CSS
 
-- ### Libraries
+### Libraries
   - Bootstrap
   - Animate on Scroll
   - Google Fonts
   - Font Awesome
 
-- ### Tools
+### Tools
   - Visual Studio Code
   
 ## Design
-- ### Font
+### Font
   - [Inter](https://fonts.google.com/specimen/Inter)
   
-- ### Colors
+### Colors
   - ![#006FE6](https://placehold.co/20x20/006FE6/006FE6.png)  #006FE6
   - ![#F5F5F5](https://placehold.co/20x20/F5F5F5/F5F5F5.png)  #F5F5F5
   - ![#001022](https://placehold.co/20x20/001022/001022.png)  #001022
   
-- ### Tools
+### Tools
   - Figma
   - CorelDRAW
 
 ## Build
-- ### Platform
+### Platform
   - Web
   
-- ### Deployment
+### Deployment
   - [Vercel](https://luqmanherifav1-luqmanherifa.vercel.app)
 
-- ### Responsive
+### Responsive
   - Desktop
   - Mobile
   - Tablet
 
-- ### Date created
+### Date created
   - September — October 2022
   
 ## Social
