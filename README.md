@@ -2,7 +2,7 @@
 Luqman Herifa is a personal portfolio v1 contains information about me, education, projects, and social media contacts based on web. The project was developed for personal portfolio using JavaScript, Bootstrap, HTML/CSS, and others.
 
 ## Display
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/src/images/web_luqmanherifav1.png)
+![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/web_luqmanherifav1.png)
 
 ## Software
 ### Languages
